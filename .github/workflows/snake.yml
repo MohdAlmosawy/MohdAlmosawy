@@ -7,8 +7,8 @@ on:
 
 permissions:
   contents: read
-  pages: write      # needed for deployment
-  id-token: write   # required for GitHub Pages auth
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -18,13 +18,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVG (dark mode)
         uses: Platane/snk@v3
         with:
           github_user_name: MohdAlmosawy
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          palette: github-dark
 
-      # Upload artifact to GitHub Pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
