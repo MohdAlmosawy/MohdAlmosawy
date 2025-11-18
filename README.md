@@ -62,7 +62,7 @@ I care about **clarity**, **efficiency**, and solving problems with a practical 
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohdAlmosawy/MohdAlmosawy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://mohdalmosawy.github.io/MohdAlmosawy/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🌐 Find Me Online
