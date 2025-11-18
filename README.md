@@ -10,10 +10,6 @@ I care about **clarity**, **efficiency**, and solving problems with a practical 
 <br>
 <br>
 
-## 🛠️ Core Skills
-
-<br>
-
 <!-- Main Odoo Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
@@ -54,21 +50,11 @@ I care about **clarity**, **efficiency**, and solving problems with a practical 
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-
-## 🚀 Featured Project
-
-### 🔹 [dotfiles](https://github.com/MohdAlmosawy/dotfiles)  
-
-
-## 🐍 Contribution Snake
 <p align="center">
   <img src="https://mohdalmosawy.github.io/MohdAlmosawy/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🌐 Find Me Online
 - **Website:** https://sayedmohd.com/
-
-## 🎉 Fun Facts
 - **Sudoku Savant** → solved **500+ puzzles**
 - **Bookworm** → read **200+ books**
 - **Volunteer** → contributed **5000+ hours**
