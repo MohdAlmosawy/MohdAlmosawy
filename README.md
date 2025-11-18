@@ -50,10 +50,6 @@ I care about **clarity**, **efficiency**, and solving problems with a practical 
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://mohdalmosawy.github.io/MohdAlmosawy/github-contribution-grid-snake-dark.svg" />
-</p>
-
 - **Website:** https://sayedmohd.com/
 - **Sudoku Savant** → solved **500+ puzzles**
 - **Bookworm** → read **200+ books**
