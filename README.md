@@ -54,4 +54,4 @@ I care about **clarity**, **efficiency**, and solving problems with a practical 
 - **Sudoku Savant** → solved **500+ puzzles**
 - **Bookworm** → read **200+ books**
 - **Volunteer** → contributed **5000+ hours**
-- **Moving Pixels** → spent **1000+ hours creating/optimizing digital content
+- **Moving Pixels** → spent **1000+ hours creating/optimizing digital content**
